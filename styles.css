@@ -1,0 +1,22 @@
+body {
+  background-color: #E6FFE6;
+}
+
+h1 {
+  color: #824E19;
+}
+
+h3 {
+  color: #00CC00;
+}
+
+h4 {
+  font-style: italic;
+  padding-top: 1.2em;
+  line-height: 1.5em;
+  color: #cc6600;
+}
+.header-img {
+  padding-top: 1.2em;
+  max-width: 200px;
+}
