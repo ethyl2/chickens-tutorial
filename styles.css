@@ -16,6 +16,11 @@ h4 {
   line-height: 1.5em;
   color: #cc6600;
 }
+
+p {
+  font-size: 1.1em;
+}
+
 .header-img {
   padding-top: 1.2em;
   max-width: 200px;
