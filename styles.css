@@ -1,9 +1,14 @@
 body {
   background-color: #E6FFE6;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1 {
   color: #824E19;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
 }
 
 h3 {
@@ -17,11 +22,18 @@ h4 {
   color: #cc6600;
 }
 
-p {
-  font-size: 1.1em;
+p, li {
+  font-size: 1.25em;
 }
 
 .header-img {
   padding-top: 1.2em;
   max-width: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid yellow;
+
 }
